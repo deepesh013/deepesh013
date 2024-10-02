@@ -15,7 +15,7 @@ I’m a passionate student at IET Davv Indore, pursuing a degree in Electronics 
 - [LinkedIn](your-linkedin-url)
 - [Twitter](your-twitter-url)
 - Email: deepeshsharma013@gmail.com
-
+- Phone: 123456789
 ## 📂 Projects
 Check out my repositories to see what I’m working on! Some of my favorite projects include:
 - [Project Name 1](link-to-project-1) - Brief description of the project.
