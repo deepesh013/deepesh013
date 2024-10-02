@@ -14,7 +14,7 @@ I’m a passionate student at IET Davv Indore, pursuing a degree in Electronics 
 ## 📫 Get in Touch
 - [LinkedIn](your-linkedin-url)
 - [Twitter](your-twitter-url)
-- [Email](deepeshsharma013@gmail.com)
+- Email: deepeshsharma013@gmail.com
 
 ## 📂 Projects
 Check out my repositories to see what I’m working on! Some of my favorite projects include:
