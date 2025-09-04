@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Deepesh Sharma]
 
 ## About Me
 I’m a passionate student at IET Davv Indore, pursuing a degree in Electronics and Instrumentation Engineering. I have a love for coding and a keen interest in exploring technology.
